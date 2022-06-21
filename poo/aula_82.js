@@ -46,6 +46,7 @@ const d1 = new DispositivoEletronico('iPhone');
 
 d1.ligar()
 console.log(d1);
+
 console.log(i1);
 
 iP1.ligar()
